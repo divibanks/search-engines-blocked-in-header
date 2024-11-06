@@ -1,6 +1,7 @@
 <?php
 /*
 Plugin Name: Search Engines Blocked in Header
+Plugin URI: https://github.com/divibanks/search-engines-blocked-in-header
 Description: Display the 'Search Engines Discouraged' (or any translation) notification in the WordPress Toolbar if blog_public option has been checked.
 Author: Patrick Lumumba
 Version: 1.1.0

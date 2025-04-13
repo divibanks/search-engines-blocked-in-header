@@ -45,7 +45,8 @@ If you have any comments, questions, or need assistance with the "Search Engines
 
 == Screenshots ==
 
-1. Notification is shown on the admin bar
+1. **Go to Settings > Reading** to `Discourage search engines from indexing this site`
+2. Notification is shown on the admin bar
 
 == Changelog ==
 

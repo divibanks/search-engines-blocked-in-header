@@ -1,0 +1,6 @@
+/* Custom style for the admin bar warning */
+#wpadminbar .sebih-toolbar-alert > a {
+    background-color: #dc3232 !important; /* Red background */
+    color: #fff !important;
+    font-weight: 400;
+}

@@ -29,7 +29,9 @@ This setting is often used during development or maintenance phases, but it’s 
 
 ## 🖼️ Screenshots
 
-1. A red warning message in the admin bar that says: “Search Engines Discouraged”.
+![Screenshot-2](https://github.com/user-attachments/assets/bf7c618d-9d63-453e-a063-b22ffeb7ef56)
+
+![Screenshot-1](https://github.com/user-attachments/assets/0972bec7-0548-4f48-b6f6-fd3779378ecf)
 
 ---
 

@@ -68,7 +68,7 @@ For major changes, please open an issue to discuss what you’d like to contribu
 
 ## ☕ Support Development
 
-If you find this plugin helpful, consider [sponsoring me on GitHub](https://github.com/sponsors/divibanks). Your support helps in maintaining and improving the plugin!
+If you find this plugin helpful, consider [sponsoring us on GitHub](https://github.com/sponsors/divibanks). Your support helps in maintaining and improving the plugin!
 
 ---
 

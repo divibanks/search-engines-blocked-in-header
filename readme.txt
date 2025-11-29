@@ -1,11 +1,11 @@
 === Search Engines Blocked in Header ===
-Contributors: lumiblog, divibanks  
-Donate Link: https://github.com/sponsors/divibanks  
+Contributors: mbootsman, lumiblog, paluhostws 
+Donate Link: https://lumumbas.blog/support-wp-plugins/  
 Tags: privacy, blocked, toolbar, seo, search engines blocked  
 Requires PHP: 7.0  
 Requires at least: 3.2  
-Tested up to: 6.8  
-Stable tag: 2.0.0  
+Tested up to: 6.9  
+Stable tag: 2.1.0  
 License: GPLv2 or later  
 License URI: https://www.gnu.org/licenses/gpl-2.0.html  
 
@@ -48,7 +48,11 @@ If you have any comments, questions, or need assistance with the "Search Engines
 1. **Go to Settings > Reading** to `Discourage search engines from indexing this site`
 2. Notification is shown on the admin bar
 
+
 == Changelog ==
+
+= 2.1.0 =
+* Compatibility: WordPress 6.9 compatibility test passed
 
 = 2.0.0 =
 * Added: Red background color for better visibility of the admin bar notification
@@ -63,7 +67,5 @@ If you have any comments, questions, or need assistance with the "Search Engines
 
 == Upgrade Notice ==
 
-= 2.0.0 =
-* Added red styling and visual improvements
-* Refactored CSS into external file for better maintenance
-* Confirmed compatibility with PHP 8.4 and WordPress 6.8
+= 2.1.0 =
+* Compatibility: WordPress 6.9 compatibility test passed

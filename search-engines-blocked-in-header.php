@@ -4,7 +4,7 @@
 * Plugin URI: https://github.com/divibanks/search-engines-blocked-in-header
 * Description: Display the 'Search Engines Discouraged' notification in the WordPress Toolbar if blog_public option is unchecked.
 * Author: Patrick Lumumba
-* Version: 2.0.0
+* Version: 2.1.0
 * Author URI: https://lumumbas.blog
 * License: GPLv2 or later
 * License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
